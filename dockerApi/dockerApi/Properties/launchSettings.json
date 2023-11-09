@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "Discovery Document": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/.well-known/openid-configuration",
+      "applicationUrl": "http://host.docker.internal/.well-known/openid-configuration",
+      "httpPort": 5001
+    },
+    "Swagger": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "httpPort": 5001
+    },
+    "Discovery Document Https": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/.well-known/openid-configuration",
+      "useSSL": true,
+      "sslPort": 5001
+    }
+  }
+}
