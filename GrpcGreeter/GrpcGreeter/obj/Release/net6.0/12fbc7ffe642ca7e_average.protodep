@@ -1,2 +1,0 @@
-obj\Release\net6.0\Protos/Average.cs \
-obj\Release\net6.0\Protos/AverageGrpc.cs: Protos/average.proto
