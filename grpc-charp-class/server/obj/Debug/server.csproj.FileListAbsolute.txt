@@ -1,2 +1,0 @@
-C:\Users\mariana.alencastro\source\repos\grpc-charp-class\server\obj\Debug\server.csproj.AssemblyReference.cache
-C:\Users\mariana.alencastro\source\repos\grpc-charp-class\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
